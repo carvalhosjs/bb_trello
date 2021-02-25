@@ -1,4 +1,4 @@
-##Cominicação do Trello através do CURL
+# Cominicação do Trello através do CURL
 
 Esse pacote irá comunicar com sistema do Trello para faezr operações básicas de criação de board, listas, cards, comentarios e anexos.
 
