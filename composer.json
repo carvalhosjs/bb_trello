@@ -1,0 +1,29 @@
+{
+  "name": "bblibs/bb_trello",
+  "description": "Request Trello para PHP",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Carlos Mateus Carvalho",
+      "email": "carvalho.ti.adm@gmail.com",
+      "homepage": "https://carvalhosjs.github.io/",
+      "role": "Developer"
+    }
+  ],
+  "config": {
+    "vendor-dir": "vendor"
+  },
+  "autoload": {
+    "psr-4": {
+      "BBTrello\\": "source/"
+    },
+    "files": [
+      "source/Boot/Config.php"
+    ]
+  },
+  "require": {
+    "php": "^7.1",
+    "bblibs/bb_curl" : "dev-main"
+  }
+}
