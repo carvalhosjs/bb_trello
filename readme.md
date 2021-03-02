@@ -1,6 +1,6 @@
-# Cominicação do Trello através do CURL
+# Comunicação do Trello através do CURL
 
-Esse pacote irá comunicar com sistema do Trello para faezr operações básicas de criação de board, listas, cards, comentarios e anexos.
+Esse pacote irá comunicar com o sistema do Trello para faezr operações básicas de criação de board, listas, cards, comentarios e anexos.
 
 Primeiramente temos que pegar a chave de acesso que contem o key e token para fazer a aplicação
 atraves do link https://trello.com/app-key
